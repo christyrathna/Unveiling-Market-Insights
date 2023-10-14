@@ -2,7 +2,7 @@
 
 
 
-Dashboard Public Link - https://public.tableau.com/views/WholesalerCustomerAnalysisDashboard_16963443765530/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard Public Link - https://public.tableau.com/views/WholesalerCustomerAnalysisDashboard_16963443765530/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story Link - https://public.tableau.com/views/WholesalerCustomerAnalysisStory_16963444902320/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
